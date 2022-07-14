@@ -25,7 +25,7 @@ Next time the Raspberry Pi boots, the whereclock will start up.
 
 # Running
 
-Rebooting the Raspberry Pi should start it up but you can also start and stop it mnually using these two commands:
+Rebooting the Raspberry Pi should start it up but you can also start and stop it manually using these two commands:
 
     sudo /etc/init.d/whereclock.sh start
     sudo /etc/init.d/whereclock.sh stop
